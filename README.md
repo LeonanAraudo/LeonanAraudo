@@ -5,9 +5,6 @@
 - 🌱 Estudando Next.js
 - 📫 Meu email para contato é leonanreis121@gmail.com
 - ⚡ Mesmo me focando em frontend gosto de interagir com o backend
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
-<br>
-<br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
@@ -22,8 +19,8 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<a href="https://instagram.com/leonan_ar" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/LeonanAraudo/LeonanAraudo/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
