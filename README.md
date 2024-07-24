@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente desenvolvendo projetos pessoais
 - 🌱 Estudando Next.js
-- 📫 Meu email para contato é leonanreis121@gmail.com
+- 📫 Meu email para contato é leonanreis121@gmail.co00015A
 - ⚡ Mesmo me focando em frontend gosto de interagir com o backend
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
