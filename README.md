@@ -26,4 +26,6 @@
 ![Node.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+![Vue.js](https://img.shields.io/badge/-Vue.Js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000AFF&height=120&section=footer"/>
